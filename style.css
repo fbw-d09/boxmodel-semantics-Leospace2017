@@ -1,0 +1,111 @@
+body
+{
+    box-sizing: border-box;
+    margin: 5px;
+    max-width: 99%;
+    padding: 10px;
+    text-align: center;
+
+}
+header
+{
+    height: 200px;
+    max-width: 100%;
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+}
+nav
+{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(82, 30, 30,0.5);
+    position: fixed;
+    top: 0;
+    padding: 10px;
+    text-align: center;
+}
+nav li
+{
+    color: white;
+    display: inline-block;
+}
+aside
+{
+     width: 25%;
+    height: 800px;
+    background-color: beige;
+    float: left;
+    margin:auto ;
+    padding: 10px;
+    text-align: center;
+}
+
+main
+{
+    width: 65%;
+    height: 800px;
+    background-color: blue;
+    float: left;
+    margin: 5px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+
+}
+article
+{
+    width: 80%;
+    height: 65%;
+    background-color: blueviolet;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+
+}
+section
+{
+    width: 80%;
+    height: 30%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: azure;
+}
+div
+{
+    clear: right;
+}
+footer
+{
+    float: left;
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    margin: 5px;
+    clear: both;
+    padding: 10px;
+    text-align: center;
+
+}
+h1
+{
+
+}
+h2
+{
+
+}
+h3
+{
+
+}
+h4
+{
+
+}
+span
+{
+
+}
